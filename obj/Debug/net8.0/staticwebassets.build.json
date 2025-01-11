@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dZq71DDFSVDiprA9bDCd4PrS1mEjQxyNa5Qd9oD655s=",
+  "Source": "jsonCsvConverter",
+  "BasePath": "_content/jsonCsvConverter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
